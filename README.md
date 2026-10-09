@@ -4,4 +4,4 @@ Short description: A complete Python implementation analyzing GenAI impact on cu
 
 How to run: Instructions for pip install -r requirements.txtand python src/main.py.
 
-Link to the article: https://medium.com/@lucasnogsousa/why-a-b-testing-isnt-enough-using-difference-in-differences-to-evaluate-ai-rollouts-62500878c5d8.
+Link to the article: https://medium.com/@lucasnogsousa/why-a-b-testing-isnt-enough-using-difference-in-differences-to-evaluate-ai-rollouts-62500878c5d8?postPublishedType=repub
